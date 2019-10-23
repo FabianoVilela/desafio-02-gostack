@@ -1,7 +1,7 @@
-import { Model, Sequelize } from 'sequelize';
+import Sequelize, { Model } from 'sequelize';
 
 class User extends Model {
-  static init(Sequelize) {
+  static init(sequelize) {
     super.init(
       {
         name: Sequelize.STRING,

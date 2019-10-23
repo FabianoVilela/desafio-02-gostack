@@ -7,3 +7,5 @@ routes.get('/', (req, res) => {
 });
 
 export default routes;
+
+import User from './app/models/User';
