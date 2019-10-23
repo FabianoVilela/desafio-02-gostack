@@ -85,4 +85,4 @@ O aluno não pode se autenticar no sistema, ou seja, não possui senha.
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT.
