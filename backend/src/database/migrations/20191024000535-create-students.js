@@ -23,11 +23,11 @@ module.exports = {
         allowNull: false,
       },
       weight: {
-        type: Sequelize.DECIMAL(3, 2),
+        type: Sequelize.DECIMAL(5, 2),
         allowNull: false,
       },
       height: {
-        type: Sequelize.DECIMAL(2, 2),
+        type: Sequelize.DECIMAL(5, 2),
         allowNull: false,
       },
       created_at: {
